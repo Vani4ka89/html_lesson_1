@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca2f3bf-2fce-4ee1-8563-ff45181ea1ff" name="Changes" comment="changed directories and moved files and rename main directory. changed bg color. Not finished lesson_2">
-      <change afterPath="$PROJECT_DIR$/lesson_2/exercise_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/exercise_1/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/exercise_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/exercise_2/styles/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/exercise_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/exercise_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/exercise_2/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/exercise_2/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,7 +73,7 @@
       <workItem from="1674290204665" duration="447000" />
       <workItem from="1674290668606" duration="92000" />
       <workItem from="1674290801716" duration="36000" />
-      <workItem from="1674290894345" duration="7566000" />
+      <workItem from="1674290894345" duration="10364000" />
     </task>
     <task id="LOCAL-00001" summary="changed directories">
       <created>1674290504634</created>
@@ -105,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674291186269</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changed directories and moved files and rename main directory. changed bg color. Not finished lesson_2">
+      <created>1674298532396</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674298532396</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
