@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ca2f3bf-2fce-4ee1-8563-ff45181ea1ff" name="Changes" comment="">
+    <list default="true" id="3ca2f3bf-2fce-4ee1-8563-ff45181ea1ff" name="Changes" comment="changed directories and moved files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +44,15 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan.LENOVO-YOGA710\IdeaProjects\html_lesson_1\lesson_1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +65,25 @@
       <workItem from="1674005952632" duration="1487000" />
       <workItem from="1674033703618" duration="16000" />
       <workItem from="1674033722445" duration="1830000" />
+      <workItem from="1674290204665" duration="447000" />
+      <workItem from="1674290668606" duration="92000" />
+      <workItem from="1674290801716" duration="36000" />
     </task>
+    <task id="LOCAL-00001" summary="changed directories">
+      <created>1674290504634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674290504634</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed directories and moved files">
+      <created>1674290613280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674290613280</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +99,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed directories" />
+    <MESSAGE value="changed directories and moved files" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed directories and moved files" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
