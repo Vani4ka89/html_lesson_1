@@ -1,0 +1,29 @@
+.container {
+    background: #efeadf;
+    color: #ffffff;
+    padding: 20px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.block {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.boxes {
+    background: #072757;
+    width: 150px;
+    height: 200px;
+}
+.box {
+    width: 100%;
+    height: 300px;
+    background: #2269ba;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
