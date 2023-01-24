@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ca2f3bf-2fce-4ee1-8563-ff45181ea1ff" name="Changes" comment="changed directories and moved files and rename main directory. changed bg color. Not finished lesson_2">
+    <list default="true" id="3ca2f3bf-2fce-4ee1-8563-ff45181ea1ff" name="Changes" comment="changed directories and moved files and rename main directory. changed bg color. Homework done">
+      <change afterPath="$PROJECT_DIR$/lesson_3/exercise_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/exercise_1/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/exercise_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/exercise_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/exercise_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/exercise_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/exercise_1/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/exercise_1/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson_2/exercise_2/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/exercise_2/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +57,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan.LENOVO-YOGA710\IdeaProjects\html_lessons\lesson_3\exercise_1" />
       <recent name="C:\Users\Ivan.LENOVO-YOGA710\IdeaProjects\html_lessons\lesson_2\exercise_1" />
       <recent name="C:\Users\Ivan.LENOVO-YOGA710\IdeaProjects\html_lesson_1\lesson_1" />
     </key>
@@ -73,7 +77,7 @@
       <workItem from="1674290204665" duration="447000" />
       <workItem from="1674290668606" duration="92000" />
       <workItem from="1674290801716" duration="36000" />
-      <workItem from="1674290894345" duration="10364000" />
+      <workItem from="1674290894345" duration="18375000" />
     </task>
     <task id="LOCAL-00001" summary="changed directories">
       <created>1674290504634</created>
@@ -110,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674298532396</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changed directories and moved files and rename main directory. changed bg color. Homework done">
+      <created>1674301472593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674301472593</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +144,8 @@
     <MESSAGE value="changed directories and moved files and rename main directory" />
     <MESSAGE value="changed directories and moved files and rename main directory. changed bg color" />
     <MESSAGE value="changed directories and moved files and rename main directory. changed bg color. Not finished lesson_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed directories and moved files and rename main directory. changed bg color. Not finished lesson_2" />
+    <MESSAGE value="changed directories and moved files and rename main directory. changed bg color. Homework done" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed directories and moved files and rename main directory. changed bg color. Homework done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
