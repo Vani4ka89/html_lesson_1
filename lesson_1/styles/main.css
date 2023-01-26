@@ -2,27 +2,34 @@ h1 {
     background: #f3d406;
     color: #2A1C01FF;
 }
+
 a {
     text-decoration: none;
 }
+
 img {
     width: 200px;
     display: block;
     margin: 0 auto;
 }
+
 p {
     background: #FCC256FF;
     color: #3B2703FF;
 }
+
 h2 {
     background: #FDF3A6FF;
 }
+
 h2 a {
     color: brown;
 }
+
 ul {
     background: #e8d7b7;
 }
+
 ul li {
     color: darkred;
 }
