@@ -1,0 +1,25 @@
+@media screen and (max-width: 768px ) {
+    .wrapper {
+        padding-right: 15px;
+    }
+    .container_1 {
+        height: 530px;
+        padding: 15px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        row-gap: 15px;
+    }
+    .box-1, .box-2, .box-3 {
+        width: 768px;
+    }
+    .box-1 {
+        height: 100px;
+    }
+    .box-2 {
+        height: 300px;
+    }
+    .box-3 {
+        height: 100px;
+    }
+}
