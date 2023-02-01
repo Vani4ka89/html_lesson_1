@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca2f3bf-2fce-4ee1-8563-ff45181ea1ff" name="Changes" comment="changed directories and moved files and rename main directory. changed bg color. Homework done.&#10;add lesson_3. add lesson_4 not finished">
-      <change afterPath="$PROJECT_DIR$/Media query/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Normalize CSS/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/part_1/styles/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/part_1/styles/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/part_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/part_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/part_1/styles/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/part_1/styles/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson_4/part_1/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/part_1/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +80,7 @@
       <workItem from="1675098054404" duration="1921000" />
       <workItem from="1675165170387" duration="4697000" />
       <workItem from="1675199085616" duration="3146000" />
+      <workItem from="1675259957730" duration="1959000" />
     </task>
     <task id="LOCAL-00001" summary="changed directories">
       <created>1674290504634</created>
